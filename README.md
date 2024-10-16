@@ -21,8 +21,14 @@ This project is a .NET Core API that exposes RESTful endpoints for managing prod
 
 # Steps to Set Up
   # 1.Clone the Repository
-      git clone https://github.com/your-repository/product-api.git
+      git clone https://github.com/Ajay-dev-2529/ProductManagerAPI.git
       cd product-api
+      
+  # 2.EF core intialisation and DB and Table creation
+      -dotnet ef database update
+      
+  # 3.Do dotnet restore then dotnet build then dotnet run
+    
     
     
 
