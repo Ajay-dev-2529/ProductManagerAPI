@@ -1,0 +1,570 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261221FE-06D3-42FE-A778-217A289F65B5}|..\\ProductsApi.Tests\\ProductsApi.Tests.csproj|c:\\users\\saj1\\source\\repos\\productsapi.tests\\servicetests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\repositories\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:repositories\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\extensions\\randomidvaluegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:extensions\\randomidvaluegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\models\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:models\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261221FE-06D3-42FE-A778-217A289F65B5}|..\\ProductsApi.Tests\\ProductsApi.Tests.csproj|c:\\users\\saj1\\source\\repos\\productsapi.tests\\productsapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\migrations\\20241016073653_updateentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:migrations\\20241016073653_updateentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016071529_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016071529_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016070146_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016070146_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016065544_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016065544_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016065406_UpdateSellerIdConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016065406_UpdateSellerIdConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016061115_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016061115_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016060334_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241016060334_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\services\\interfaces\\isellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:services\\interfaces\\isellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\repositories\\interfaces\\isellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:repositories\\interfaces\\isellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\models\\createseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:models\\createseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\asst.products.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:asst.products.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\asst.products.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:asst.products.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|c:\\users\\saj1\\source\\repos\\asst.products.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0B6571-7B98-429D-BDEA-6DE6F801DCEE}|Asst.Products.API.csproj|solutionrelative:repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewEMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:18:06.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwD0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:16:44.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandomIdValueGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Extensions\\RandomIdValueGenerator.cs",
+              "RelativeDocumentMoniker": "Extensions\\RandomIdValueGenerator.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Extensions\\RandomIdValueGenerator.cs",
+              "RelativeToolTip": "Extensions\\RandomIdValueGenerator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:37:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:39:43.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:40:59.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:17:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\ProductsApi.Tests\\ServiceTests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ProductsApi.Tests\\ServiceTests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\ProductsApi.Tests\\ServiceTests\\ProductServiceTests.cs*",
+              "RelativeToolTip": "..\\ProductsApi.Tests\\ServiceTests\\ProductServiceTests.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwEgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:14:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241016073653_UpdateEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016073653_UpdateEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016073653_UpdateEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016073653_UpdateEntityConfiguration.cs",
+              "RelativeToolTip": "Migrations\\20241016073653_UpdateEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:36:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:28:29.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SellerRepository.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\SellerRepository.cs",
+              "RelativeToolTip": "Repositories\\SellerRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:16:19.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:42:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "Models\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\CreateProduct.cs",
+              "RelativeToolTip": "Models\\CreateProduct.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:52:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsApi.Tests",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\ProductsApi.Tests\\ProductsApi.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\ProductsApi.Tests\\ProductsApi.Tests.csproj",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\ProductsApi.Tests\\ProductsApi.Tests.csproj",
+              "RelativeToolTip": "..\\ProductsApi.Tests\\ProductsApi.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T07:47:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\Seller.cs",
+              "RelativeToolTip": "Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:03:43.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241016070146_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016070146_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016070146_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016070146_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241016070146_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:01:47.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Data\\ProductDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:45:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241016071529_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016071529_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016071529_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016071529_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241016071529_InitialCreate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:15:30.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T12:36:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241016065544_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016065544_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016065544_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016065544_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241016065544_InitialCreate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:55:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241016065406_UpdateSellerIdConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016065406_UpdateSellerIdConfiguration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016065406_UpdateSellerIdConfiguration.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016065406_UpdateSellerIdConfiguration.cs",
+              "RelativeToolTip": "Migrations\\20241016065406_UpdateSellerIdConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:54:06.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241016061115_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016061115_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016061115_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016061115_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241016061115_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:11:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241016060334_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016060334_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016060334_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Migrations\\20241016060334_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241016060334_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:03:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISellerService.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\Interfaces\\ISellerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISellerService.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\Interfaces\\ISellerService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISellerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:14:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "Services\\SellerService.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Services\\SellerService.cs",
+              "RelativeToolTip": "Services\\SellerService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:15:25.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\Interfaces\\ISellerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ISellerRepository.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\Interfaces\\ISellerRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ISellerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:15:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:17:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateSeller.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\CreateSeller.cs",
+              "RelativeDocumentMoniker": "Models\\CreateSeller.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\CreateSeller.cs",
+              "RelativeToolTip": "Models\\CreateSeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:12:06.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Asst.Products.API.http",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Asst.Products.API.http",
+              "RelativeDocumentMoniker": "Asst.Products.API.http",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Asst.Products.API.http",
+              "RelativeToolTip": "Asst.Products.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T11:39:44.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:16:28.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Asst.Products.API",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Asst.Products.API.csproj",
+              "RelativeDocumentMoniker": "Asst.Products.API.csproj",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Asst.Products.API.csproj",
+              "RelativeToolTip": "Asst.Products.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T12:19:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:27:52.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\saj1\\source\\repos\\Asst.Products.API\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:41:30.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
